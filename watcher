@@ -1,0 +1,1 @@
+iced -o ./bin -cw ./src
